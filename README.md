@@ -1,4 +1,4 @@
-# Recommending Cards for Magic: the Gathering Deckbuilding
+# Card Recommender and Deck Generator for Magic: the Gathering
 
 A simple program that takes a card name as input and finds other cards that often appear together with that card. This technique can be used as a tool to help in deckbuilding, or modified into a simple deck generator.
 
