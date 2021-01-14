@@ -1,4 +1,4 @@
-# MtgCardRecommender
+# Mtg Card Recommender
 
 A simple project that takes a card name as input and finds other cards that often appear together with that card.
 
