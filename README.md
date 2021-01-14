@@ -10,6 +10,6 @@ This program uses a file derived from ~10,000 modern decks made by users on deck
 
 This technique can be used as a tool to assist deckbuilding by recommending cards frequently used by other players, or as a rudimentary deck generator (by starting with some card, keeping 4x of each top result, adding 24 lands, etc.).
 
-Note: the dataset was collected on December 27 2021, so cards from sets released after this date are not recognized. Also, cards that are not commonly used in the Modern format might register as invalid because they did not occur in the dataset. Card names are case-sensitive.
+Note: the dataset was collected on December 27, 2021, so cards from sets released after this date are not recognized. Also, cards that are not commonly used in the Modern format might register as invalid because they did not occur in the dataset. Card names are case-sensitive.
 
 Thanks for checking out this project!
