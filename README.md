@@ -2,7 +2,7 @@
 
 A simple program that takes a card name as input and finds other cards that often appear together with that card.
 
-Click into 'CardRecommender.ipynb' to see it in action.
+Click into 'CardRecommender.ipynb' to see the jupyter notebook.
 
 ### Summary:
 
