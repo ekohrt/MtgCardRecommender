@@ -1,6 +1,6 @@
 # Recommending Cards for Magic: the Gathering Deckbuilding
 
-A simple program that takes a card name as input and finds other cards that often appear together with that card.
+A simple program that takes a card name as input and finds other cards that often appear together with that card. Also uses this technique as a simple deck generator.
 
 Click into 'CardRecommender.ipynb' to see the jupyter notebook.
 
