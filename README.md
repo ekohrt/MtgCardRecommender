@@ -2,7 +2,7 @@
 
 A simple program that takes a card name as input and finds other cards that often appear together with that card. This technique can be used as a tool to help in deckbuilding, or modified into a simple deck generator.
 
-Click into 'CardRecommender.ipynb' to see the jupyter notebook.
+Click into 'CardRecommender.ipynb' to see the jupyter notebook. (If it doesn't load, you can view the notebook here: https://nbviewer.jupyter.org/github/ekohrt/MtgCardRecommender/blob/main/CardRecommender.ipynb)
 
 ### Summary:
 
